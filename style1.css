@@ -163,10 +163,10 @@ h3{
         color: lightgrey;
     }
     .add-task-box{
-        top: 255px;
-        left: 10px;
-        width: 340px;
-        height: 200px;
+        top: 50px;
+        left: 50px;
+        width: 220px;
+        height: 120px;
         background: #FFFFFF 0% 0% no-repeat padding-box;
         box-shadow: 0px 0px 20px #67676729;
         border: 1px solid #EDEDED;
